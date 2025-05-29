@@ -7,3 +7,13 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+ <header>
+        <h1>Impacto do Desmatamento no mundo</h1>
+        <p>O desmatamento afeta o mundo de forma negativa. Tendo como resultado desequilíbrio ambiental.</p>
+        <nav>
+            <ul>
+                <li><a href="#problemas">Os Problemas</a></li>
+                <li><a href="#consequencias">Consequências</a></li>
+                <li><a href="#conclusao">Conclusão</a></li>
+            </ul>
+        </nav>
